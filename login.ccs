@@ -32,3 +32,7 @@ margin: 4;
 	float: left;
 	overflow:hidden;
 }
+.Secondattempt
+{
+	display:none;
+}
