@@ -1,0 +1,38 @@
+h1
+{
+  font-size: 4em
+}
+html, body
+{
+    font:75% Arial, Helvetica, sans-serif;
+    color: #000;
+    background-color: #fff;
+	margin: 15;
+    padding:3 ;
+}
+form
+{
+    width: auto;
+    margin-top: 100;
+    margin-left: 50;
+	overflow:hidden;
+}
+input
+{
+padding: 5;
+margin: 4;
+}
+#Main_Img
+{
+	
+}
+.Firstattempt
+{
+	width:500;
+	float: left;
+	overflow:hidden;
+}
+.Secondattempt
+{
+	display:none;
+}
